@@ -59,8 +59,8 @@ cond(no)->sub1(right)->op1
 
 ## limitations
 
-All parameters, but width, are mandatory.
-Do not duplicate refname (for obvious reason).
+All parameters, but width, are mandatory.<br>
+Do not duplicate refname (for obvious reason).<br>
 
 ## greetings
 
