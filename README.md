@@ -57,6 +57,10 @@ cond(no)->sub1(right)->op1
 \end{diagrams}
 ```
 
+## options
+
+Not much available, beside the type selection.
+
 ## limitations
 
 All parameters, but width, are mandatory.<br>
